@@ -1,0 +1,14 @@
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\Problem1.csprojAssemblyReference.cache
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\App.g.cs
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\301090476_Aric_Test1_MarkupCompile.cache
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\bin\Debug\301090476_Aric_Test1.exe.config
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\bin\Debug\301090476_Aric_Test1.exe
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\bin\Debug\301090476_Aric_Test1.pdb
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\MainWindow.g.cs
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\301090476_Aric_Test1_MarkupCompile.lref
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\MainWindow.baml
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\301090476_Aric_Test1.g.resources
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\_301090476_Aric_Test1.Properties.Resources.resources
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\Problem1.csproj.GenerateResource.cache
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\301090476_Aric_Test1.exe
+C:\Users\aricm\source\repos\301090476_Aric_Test1\301090476_Aric_Test1\obj\Debug\301090476_Aric_Test1.pdb
